@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lycath🙂
+- 👀 I’m interested in coding (。_。), table top games (●'◡'●), and coffee ╰(*°▽°*)╯
+- 🌱 I’m currently learning c++, python.
+- 💞️ I’m looking to collaborate on game development.
+- ⚡ Fun fact: You can actually enjoy life! ヾ(＠⌒ー⌒＠)ノ
